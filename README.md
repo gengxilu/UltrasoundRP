@@ -8,4 +8,4 @@ NeuronDataProcessing.m is used to visualize, process, and analyze neuron signals
 The running time of AS_APM_256.m is within one second. It can be significantly longer if more image or simulation pixels were used. 
 The running time of NeuronDataProcessing.m is around 10 to 15 minutes, depending on the CPU of the testing platform and the number of threads in parallel computing.
 
-The test platform: Intel i7-7700K@3.60 GHz and MATLAB 2019b. 
+The test platform: Intel i7-7700K@3.60 GHz, Windows 11 and MATLAB 2019b. 
